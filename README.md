@@ -90,11 +90,21 @@ Project Workflow:
 ![project workflow](https://github.com/user-attachments/assets/f8213aea-6184-443a-9b41-974127b4bf48)
 
 Hardware:
-1 . ![kit full setup](https://github.com/user-attachments/assets/9cb7aa75-6214-4448-9ef4-db120767d953)
-2 . ![overweight lcd](https://github.com/user-attachments/assets/1a5756dd-416b-4cdb-98f8-47f0ec9b5cb1)
+
+1 . kit full setup demo picture:
+![kit full setup](https://github.com/user-attachments/assets/9cb7aa75-6214-4448-9ef4-db120767d953)
+
+2 . lcd picture
+![overweight lcd](https://github.com/user-attachments/assets/1a5756dd-416b-4cdb-98f8-47f0ec9b5cb1)
+
+
 Web page
-3 . ![web1](https://github.com/user-attachments/assets/50dedaa2-203e-4dd7-bc35-12c722fe17e8)
-4 . ![web2](https://github.com/user-attachments/assets/0e7595b6-3854-45e0-877d-75134479e519)
+
+3 . web picture1:
+![web1](https://github.com/user-attachments/assets/50dedaa2-203e-4dd7-bc35-12c722fe17e8)
+
+4 . web picture2:
+![web2](https://github.com/user-attachments/assets/0e7595b6-3854-45e0-877d-75134479e519)
 
 
 
